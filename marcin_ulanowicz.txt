@@ -1,0 +1,110 @@
+# QA Role Questions
+
+**Some of those questions are vague on purpose and their interpretation is up to you.**
+
+**The format of how you provide the answers will also be taken into account.**
+
+1) Please describe what were the most common bugs you have found in web applications you were working with (desktop only)
+
+- all sorts of 4xx and 5xx HTTP errors
+- not working links/buttons
+- missing content
+
+2) Please describe what were the most common bugs you have found in mobile applications you were working with (native mobile apps)
+
+- layout misplacement
+- API communication errors
+- integration with phone problems
+
+3) What is your usual process of reporting bugs to developers ?
+
+- make sure that bug is valid (also in collaboration with developers)
+- create bug report (comprehensive title, initial conditions, steps to reproduce, expected and actual result, logs, screenshots)
+- prioritize bug, if necessary escalate it
+
+4) How did your day look like in your recent QA related role ?
+
+- morning stand-up with developers and product owners
+- manually testing stories if any were ready to test
+- regression testing bugs, if there where any fixes
+- writing automated tests for tests cases
+
+5) What problems have you experienced during your collaboration with developers ?
+
+- differently understood requirements
+- lack of proper, documented communication
+
+6) What are the top 3 types of bugs which are the most annoying / problematic ?
+
+- lack of basic accessibility of a web page (e.g. while using only keyboard)
+- bad UX design
+
+7) What was the most critical bug that you have found ?
+
+It was a security bug, which enabled attacker to switch parameters sent to the server. And on the backend side the parameters weren't validated. Money were involved in the application basic functionality.
+
+8) How do you prefer to receive feedback from the development team ?
+
+If it's bug/story/feature related I prefer to have all decisions to be in the correlating item in CI/CD system
+
+9) Which technical areas are you interested in ?
+
+- web accessibility
+- financial technology
+- blockchain technology
+- IoT technology
+
+10) Which tools / apps do you use when debugging apps (you can list anything that makes your life easier)
+
+- Visual Studio
+- Fiddler
+- Chrome developer tools
+- MS SQL ManagementStudio
+
+11) How do you deal with regression testing ? (this question is vague on purpose)
+
+- may ask the developer what modules/areas he/she touched
+- based on that make a list which other functionalities may be affected
+- check data combination different from bug report
+
+12) Assuming that you were the head of a 4 people QA team, how would you organise everything ?
+
+- Daily stand-ups to check progress of the work
+- Team test planning at the begging of each development cycle
+- Test summary at the end of the cycle
+
+13) How would you optimise QA processes in your previous roles ?
+
+- On a long project I would have putted more pressure on automating all test cases. From the moment of creation of the story
+- Developers should collaborate with testers in creating Test Cases, before or during development process
+
+14) How do you deal with maintenance issues in a QA team ? (this question is ambiguous on purpose)
+
+I'm believer in living documentation, either Test Stories, Test Cases or Automation Test Scripts.
+Everything should be updated according to the current state of the system. That should be done by development team, including tester, developers and product owners.
+
+15) If you were to give me an advice about how to approach QA in general , what would it be ?
+
+Every system has bugs. Everybody makes mistakes. Don't assume anything.
+
+16) Why did you chose a QA Engineer role ?
+
+I'm passionate about informational technology. I always wanted to create software. Development wasn't my strongest side, but I discovered that I'm good at quality audit.
+So my fantasy was fulfilled :)
+
+17) What are the biggest problems / challenges that you see in a role of a QA Engineer ?
+
+Routine.
+
+18) How would you solve the problems / challenges from the previous question ?
+
+Change role once in a while.
+
+19) Assuming that you suddenly need to decide between 5 major features / project in terms of what should be a priority for QA and there is no one to ask for a priority list, how would you chose a single feature / project to test over the next few days and based on what ? (describe you logic behind it)
+
+I would check where the money is. What feature/project has the most users and how valuable they are to the stakeholder.
+
+20) What else would you like to tell me ? :)
+
+I'm looking forward to work in English speaking environment :)
+
